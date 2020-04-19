@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Welcome App</title>
 <script type="text/javascript">
 	function callAction(act) {
 		frm.action = 'CentralController?action=' + act;
