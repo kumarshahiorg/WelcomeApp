@@ -12,7 +12,7 @@ class WelcomeServiceTest {
 
 	@Test
 	void testWelcomeMessage() {
-		assertEquals("HelloKumar, Welcome to The First Azure Java App", objWelcome.welcomeMessage("Kumar")); // TODO
+		assertEquals("Hello Kumar, Welcome to The First Azure Java App", objWelcome.welcomeMessage("Kumar")); // TODO
 	}
 
 }
