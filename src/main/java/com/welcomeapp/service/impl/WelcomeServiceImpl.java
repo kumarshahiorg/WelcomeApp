@@ -5,6 +5,6 @@ import com.welcomeapp.service.WelcomeService;
 public class WelcomeServiceImpl implements WelcomeService{
 	@Override
 	public String welcomeMessage(String name) {
-		return "Hello" + name + ", Welcome to The First Azure Java App";
+		return "Hello " + name + ", Welcome to The First Azure Java App";
 	}
 }
