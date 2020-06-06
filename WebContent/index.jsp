@@ -13,7 +13,7 @@
 </script>
 </head>
 <body>
-<h1>This is My Welcome App - Version 2!</h1>
+<h1>This is My Welcome App - Version 3!</h1>
 	<form id="frm" method="post">
 		<input type="text" name="userName" id="userName" /> 
 		<input type="button" onClick="callAction('welcome')" value="Welcome" /><br />
